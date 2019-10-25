@@ -1,7 +1,7 @@
 // Author: Sean Prendergast
 // Code was initially started on September 18th, 2019
 // Code was last modified on October 15th, 2019
-// Submitted October 3rd, 2019
+// Submitted October 15th, 2019
 // Exercise: Debouncing for MSP430FR6989
 
 #include <msp430.h>
